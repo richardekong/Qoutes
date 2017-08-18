@@ -1,2 +1,1 @@
-# Qoutes
-Qoute is a repository consisting a list of 103 famous qoutes and Authors in JSON format, implemented to facilitate the functions of a random qoute web application. 
+This repository contains a 0ver hundred qoutes and their respective authors. The are presented in JSON format, to facilitate the functionalities of a random qoute web aplication.
